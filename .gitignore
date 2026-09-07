@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Backups
+*_backup/
+integration_backup/
+ai_backup_before_thermal/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
+
+# Large generated outputs
+infer_output/
+runs/
+outputs/
+
+# Local datasets / videos
+*.mp4
+*.avi
+*.mov
+
+# External repositories
+ai/SegFly-Firefly/dinov3/
+ai/SegFly-Firefly/.git/
+
+# Model checkpoints
+*.safetensors
+*.onnx
+*.engine
