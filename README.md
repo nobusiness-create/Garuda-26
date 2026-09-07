@@ -267,11 +267,6 @@ GARUDA is a hybrid prototype consisting of implemented software components and s
 | Adaptive speed control             | **IMPLEMENTED / SOFTWARE TEST**         |
 | Adaptive altitude control          | **IMPLEMENTED / SOFTWARE TEST**         |
 | Flood risk modelling               | **IMPLEMENTED IN RISK MAP**             |
-| Physical thermal camera            | **NOT INTEGRATED**                      |
-| Physical UWB radar                 | **NOT INTEGRATED**                      |
-| Physical flood sensor              | **NOT IMPLEMENTED**                     |
-| LiDAR                              | **NOT INTEGRATED**                      |
-| Physical drone                     | **NOT INTEGRATED**                      |
 | MAVLink physical command execution | **IMPLEMENTED**                         |
 
 ---
