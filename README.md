@@ -371,16 +371,6 @@ The current end-to-end prototype uses a mixture of real/test inputs and simulate
 * Current flight state
 * Environmental hazard changes
 
-### Planned Physical Integration
-
-* Thermal camera
-* UWB radar hardware
-* Flight controller
-* Physical drone
-* MAVLink command execution
-* Live navigation telemetry
-* Additional onboard sensors
-
 ---
 
 # Technologies
