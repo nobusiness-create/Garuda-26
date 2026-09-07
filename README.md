@@ -5,9 +5,6 @@ GARUDA is a smart autonomous disaster-reconnaissance and survivor-search system 
 
 The system combines RGB vision, thermal evidence, acoustic distress cues, UWB sensing, survivor assessment, multi-survivor prioritization, risk-aware navigation, dynamic replanning, and adaptive flight control into a unified decision pipeline.
 
-> **Core principle:** Do not rely on a single sensor. Detect, cross-check, assess, prioritize, navigate, and adapt.
-
----
 
 ## System Overview
 
